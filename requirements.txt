@@ -1,0 +1,13 @@
+Django==4.0.4
+djangorestframework==3.14.0
+Flask==2.3.2
+Flask-SQLAlchemy==3.0.5
+fastapi==0.101.0
+uvicorn==0.23.2
+pydantic==2.1.1
+pydantic-extra-types==2.0.0
+pydantic-settings==2.0.2
+pydantic_core==2.4.0
+gunicorn
+psycopg2
+sanic==23.6.0django-tastypie==0.14.5
